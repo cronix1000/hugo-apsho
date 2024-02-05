@@ -1,0 +1,3 @@
+[submodule "themes/hugo-apsho"]
+	path = themes/hugo-apsho
+	url = https://github.com/cronix1000/hugo-apsho.git
